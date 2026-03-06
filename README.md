@@ -1,9 +1,9 @@
 <p align="center">
   <img src="assets/app-icon.png" width="128" height="128" alt="Shelf app icon">
 </p>
-<h1 align="center">Shelf for Android</h1>
-<p align="center">Stream and organize your audiobook library from Google Drive.<br>
-The Android companion to Shelf for iOS and macOS.</p>
+<h1 align="center">Shelf</h1>
+<p align="center">An Android player for audiobooks, videos, and long-form media.<br>
+Syncs with Google Drive — stream, download, and pick up where you left off.</p>
 <p align="center"><strong>Version 1.0.0</strong> · Android 8.0+ (API 26)</p>
 
 <p align="center">Also available for <a href="https://github.com/madebysan/shelf-ios"><strong>iOS</strong></a> and <a href="https://github.com/madebysan/shelf-mac"><strong>macOS</strong></a></p>
