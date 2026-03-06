@@ -6,6 +6,8 @@
 The Android companion to Shelf for iOS and macOS.</p>
 <p align="center"><strong>Version 1.0.0</strong> · Android 8.0+ (API 26)</p>
 
+<p align="center">Also available for <a href="https://github.com/madebysan/shelf-ios"><strong>iOS</strong></a> and <a href="https://github.com/madebysan/shelf-mac"><strong>macOS</strong></a></p>
+
 ## Features
 
 - **Google Drive streaming** — Play audio and video files directly from your Drive, no downloads required
