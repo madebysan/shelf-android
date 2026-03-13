@@ -80,3 +80,11 @@ app/src/main/java/com/madebysan/shelf/
 | iOS | [shelf-ios](../shelf-ios) |
 | macOS | [shelf-mac](../shelf-mac) |
 | Landing | [shelf-landing](../shelf-landing) |
+
+## License
+
+[MIT](LICENSE)
+
+---
+
+Made by [santiagoalonso.com](https://santiagoalonso.com)
